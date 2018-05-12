@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40012
     wikipedia: http://en.wikipedia.org/wiki/George_Mallory
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39421#Mount-Everest-the-Reconnaissance-1921
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2012-04-10'
 gutenberg_type: Text
