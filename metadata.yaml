@@ -1,0 +1,46 @@
+_repo: Mount-Everest-the-Reconnaissance-1921_39421
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Wollaston, A. F. R. (Alexander Frederick Richmond)
+    aliases:
+    - Wollaston, Alexander Frederick Richmond
+    - Wollaston, Sandy
+    birthdate: 1875
+    deathdate: 1930
+    gutenberg_agent_id: '40013'
+    url: http://www.gutenberg.org/2009/agents/40013
+  - agent_name: Howard-Bury, Charles
+    alias: Howard-Bury, C. K. (Charles Kenneth)
+    birthdate: 1881
+    deathdate: 1963
+    gutenberg_agent_id: '40011'
+    url: http://www.gutenberg.org/2009/agents/40011
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Howard-Bury
+  - agent_name: Mallory, George Herbert Leigh
+    alias: Leigh-Mallory, George Herbert
+    birthdate: 1886
+    deathdate: 1924
+    gutenberg_agent_id: '40012'
+    url: http://www.gutenberg.org/2009/agents/40012
+    wikipedia: http://en.wikipedia.org/wiki/George_Mallory
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2012-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39421'
+  lccn: '22013019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Everest, Mount (China and Nepal)'
+- !lcc 'DS'
+- !lcsh 'Mount Everest Expedition (1921)'
+title: Mount Everest, the Reconnaissance, 1921
+url: http://www.gutenberg.org/ebooks/39421
